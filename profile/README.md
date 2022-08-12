@@ -1,0 +1,1 @@
+![TEDxNMIMSIndore logo](https://github.com/TEDx-NMIMS-Indore/TEDxNMIMSIndore-official-website/raw/main/public/images/tedxLogo.webp)
